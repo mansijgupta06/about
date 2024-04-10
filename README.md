@@ -1,4 +1,4 @@
-<h1 align="left">Hello I am Mansij Gupta,  am a Frontend Web Developer</h1>
+<h1 align="left">Hello I am Mansij Gupta, and I am a Frontend Web Developer</h1>
 
 
 
