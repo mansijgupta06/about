@@ -1,10 +1,6 @@
 <h1 align="left">Hello I am Mansij Gupta,  am a Frontend Web Developer</h1>
 
-###
 
-<img src="https://raw.githubusercontent.com/mansijgupta06/mansijgupta06/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mansijgupta06/count.svg?"  />
